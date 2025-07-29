@@ -5,17 +5,21 @@ It can be easily deployed on local machines or cloud servers like AWS EC2.
 
 ---
 
-## 🧱 Project Structure
 project/
+|
 ├── frontend/
-│ ├── Dockerfile
-│ ├── package.json
-│ └── src/
+│   ├── Dockerfile
+│   ├── package.json
+│   └── src/
+|
 ├── backend/
-│ ├── Dockerfile
-│ ├── package.json
-│ └── server.js
+│   ├── Dockerfile
+│   ├── package.json
+│   └── server.js
+|
 ├── docker-compose.yml
+└── README.md
+
 
 
 
